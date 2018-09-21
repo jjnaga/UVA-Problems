@@ -22,8 +22,6 @@
 #include <vector>
 using namespace std;
 
-void print2DArray();
-
 int main()
 {
 	int column, row;
@@ -93,4 +91,6 @@ int main()
 		}
 		cout << endl;
 	}
+
+	return 0;
 }
